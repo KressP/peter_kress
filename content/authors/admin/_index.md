@@ -45,9 +45,9 @@ interests:
 
 education:
   - area: PhD in Economics and Finance
-    institution: Stanford University
+    institution: University of St. Gallen
     date_start: 2021-02-01
-    date_end: 2025
+    date_end: 2025-08-31
   - area: MSc w Honors in Economics 
     institution: University of Regensburg
     date_start: 2017
@@ -61,8 +61,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Economics
     institution: University of Regensburg
-    date_start: 2014
-    date_end: 2017
+    date_start: 2014-10-01
+    date_end: 2017-10-31
     summary: |
       GPA: 
       
