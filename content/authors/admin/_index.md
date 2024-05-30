@@ -24,8 +24,8 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Swiss Institute for Empirical Economic Research (SEW) - University of St. Gallen
-    url: https://sew.unisg.ch/
+  - name: University of St. Gallen
+    url: https://sew.unisg.ch/the-institute/about-us/team/detail/person-id/6f7756aa-03a4-464c-b9c8-2dad6825d2c5/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,29 +47,29 @@ education:
   - area: PhD in Economics and Finance
     institution: University of St. Gallen
     date_start: 2021-02-01
-    date_end: 2025-08-31
+    #date_end: 2025-08-31
   - area: MSc w Honors in Economics 
     institution: University of Regensburg
-    date_start: 2017
+    #date_start: 2017
     date_end: 2020
-    summary: |
-      GPA
+    #summary: |
+    #  GPA
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Economics
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc in Economics
     institution: University of Regensburg
-    date_start: 2014-10-01
-    date_end: 2017-10-31
-    summary: |
-      GPA: 
+    #date_start: 2014-10-01
+    date_end: 2017
+    #summary: |
+    #  GPA: 
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Research Assistant
     company_name: SEW-HSG
@@ -77,11 +77,7 @@ work:
     company_logo: ''
     date_start: 2020-11-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
