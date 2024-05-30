@@ -119,4 +119,4 @@ languages:
 
 ## About Me
 
-I am a 4th year Econ PhD student at the Swiss Insitute for Empirical Economic Research at the University of St. Gallen. In my research, I combine structural models, official microdata, and transaction-level credit card data to study questions at the intersection of macro, household finance, and public economics.
+I am a 4th year Econ PhD student at the Swiss Insitute for Empirical Economic Research at the University of St. Gallen. In my research, I combine structural models, and microdata such as transaction-level credit card data to study questions at the intersection of macro, household finance, and public economics.
