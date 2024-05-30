@@ -6,7 +6,7 @@
 # Website name
 title: Peter Kress
 # Website URL
-baseURL: 'https://pkress.eu/'
+baseURL: 'https://example.com/'
 
 ############################
 ## LANGUAGE
